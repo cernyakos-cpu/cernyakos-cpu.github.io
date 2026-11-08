@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cernyakos-cpu.github.io/sitemap.xml
